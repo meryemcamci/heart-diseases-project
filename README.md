@@ -1,8 +1,8 @@
-# Predicting Heart Disease Project
+# 🫀 Predicting Heart Disease Project
 
 This project focuses on predicting the presence of heart disease in patients using various health-related attributes. The analysis includes exploratory data analysis (EDA), visualization, and a machine learning model to classify patients based on whether they are likely to have heart disease.
 
-## Goal of this Project
+## 📌 Goal of this Project
 
 To explore patient data and build a classification model that can predict whether a patient is likely to have heart disease (HeartDisease = 1) based on features like age, chest pain type, cholesterol, and other clinical variables.
 
@@ -29,7 +29,7 @@ To explore patient data and build a classification model that can predict whethe
 * Model performance was measured using metrics like accuracy.
 * Feature importance was examined to understand which variables most influenced the prediction.
 
-## Key Insights
+## 📌 Key Insights
 
 * Males and patients with atypical or asymptomatic chest pain showed higher rates of heart disease.
 * ST_Slope, ExerciseAngina, and ChestPainType were among the strongest predictors of heart disease.
